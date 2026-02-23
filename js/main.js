@@ -15,12 +15,12 @@ Enjoys building tools, shipping projects, and learning deeply.`,
   projects: () => `
 <pre>
 projects/
-├── <span class="text-blue-400">gotorrent</span>       BitTorrent client
-│   └── <a href="https://github.com/alexandru356/gotorrent" class="text-blue-400" target="_blank">[GitHub]</a>
-├── <span class="text-blue-400">media-lib</span>       JavaFX media manager
-│   └── <a href="https://github.com/alexandru356/Projet-Mediatheque" class="text-blue-400" target="_blank">[GitHub]</a>
-└── <span class="text-blue-400">wanner-site</span>     Static business website
-    └── <a href="https://wannerpeinture.com" class="text-blue-400" target="_blank">[Live]</a>
+├── <span class="text-blue-400">just-facture</span>    Invoicing platform
+│   └── <a href="https://www.justfacture.com/" class="text-blue-400" target="_blank">[Live]</a>
+├── <span class="text-blue-400">greppo</span>          Search/CLI tool
+│   └── <a href="https://github.com/alexandru356/greppo" class="text-blue-400" target="_blank">[GitHub]</a>
+└── <span class="text-blue-400">projet-mediatheque</span> JavaFX media manager
+    └── <a href="https://github.com/alexandru356/Projet-Mediatheque" class="text-blue-400" target="_blank">[GitHub]</a>
 </pre>`,
 
   resume: () => `
@@ -30,10 +30,14 @@ Download resume:
   experience: () => `
 <pre>
 experience/
-└── <span class="text-blue-400">Nomadis</span> – Software Developer Intern
+├── <span class="text-blue-400">Nomadis</span> – Software Developer Intern
+│   ├── Location: Montreal, QC
+│   ├── Role: Part of the QA team using C# and selenium
+│   └── Period: Summer 2025
+└── <span class="text-blue-400">Intact Assurance</span> – Software Developper Intern
     ├── Location: Montreal, QC
-    ├── Role: Part of the QA team using C# and selenium
-    └── Period: Summer 2025
+    ├── Role: Part of the dev team
+    └── Period: March 2026 - June 2026
 </pre>`,
 
   exp: () => commands.experience(),
@@ -63,11 +67,11 @@ experience/
 <div class="space-y-2">
   <div class="flex items-center space-x-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="h-6 w-6 border border-green-400 p-0.5 rounded" alt="Python" />
-    <span>Python</span>
+    <span>Python (FastAPI/Flask)</span>
   </div>
   <div class="flex items-center space-x-3">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" class="h-6 w-6 border border-green-400 p-0.5 rounded" alt="Go" />
-    <span>Go</span>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" class="h-6 w-6 border border-green-400 p-0.5 rounded" alt="Java" />
+    <span>Java (Spring Boot)</span>
   </div>
   <div class="flex items-center space-x-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" class="h-6 w-6 border border-green-400 p-0.5 rounded" alt="React" />
@@ -75,7 +79,7 @@ experience/
   </div>
   <div class="flex items-center space-x-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" class="h-6 w-6 border border-green-400 p-0.5 rounded" alt="C#" />
-    <span>C#</span>
+    <span>C# (ASP.NET Core)</span>
   </div>
   <div class="flex items-center space-x-3">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" class="h-6 w-6 border border-green-400 p-0.5 rounded" alt="PostgreSQL" />
